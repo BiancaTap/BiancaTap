@@ -15,5 +15,6 @@ I'm a QA Engineer with 10+ years of experience across the full quality lifecycle
 | 🔥 [Artillery Performance Tests](https://github.com/BiancaTap/artillery-performance-tests) | Load, stress & spike tests against REST APIs | Artillery · GitHub Actions |
 | 📬 [API Testing Suite](https://github.com/BiancaTap/restful-booker-api-tests) | Full CRUD + auth + error handling via Newman in CI | Postman · Newman · GitHub Actions |
 | 🎮 [Game Security QA Lab](https://github.com/BiancaTap/game-security-qa-lab) | Automated attack→detect regression suite for game anti-cheat; native memory-scan & hook-injection detection on Windows + Linux | Python · pytest · C++ · GitHub Actions |
+| 🎮 [Idle Mobile Game Automation](https://github.com/BiancaTap/imt-qa-automation) | Idle Mining Mobile Game Automation using Appium | Python · pytest |
 
 
